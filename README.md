@@ -21,7 +21,7 @@ El **Apple Watch**, presentado en 2015, es un dispositivo multifuncional que com
 
 ### 🎥 **Recursos Multimedia**
 - 🌐 [Sitio oficial de Apple Watch](https://www.apple.com/watch/)
-- 📺 [Video de presentación del Apple Watch](https://www.youtube.com/watch?v=KnPrBeLpPLQ)
+- 📺 [Video de presentación del Apple Watch](https://www.youtube.com/watch?v=s1f_DF6NK54)
 
 ---
 
