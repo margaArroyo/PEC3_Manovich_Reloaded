@@ -36,7 +36,7 @@ Desde un punto de vista estético, el dispositivo también encarna la hibridaci�
 ## 💬 Caso 2: Reddit - El Foro Global Híbrido
 
 <p align="center">
-  <img src="imagenes/reddit.jpg" alt="Apple Watch Representación" width="500" style="border-radius: 20px;">
+  <img src="imagenes/reddit.jpg" alt="Imagen Reddit" width="500" style="border-radius: 20px;">
 </p>
 
 ### 🔍 **Descripción**
