@@ -7,6 +7,10 @@ La **hibridación** es un fenómeno central en la era digital descrito por **Lev
 
 ## ⌚ Caso 1: Apple Watch - La Hibridación de la Salud, Comunicación y Estilo
 
+<p align="center">
+  <img src="imagenes/applewatch.png" alt="Apple Watch Representación" width="500" style="border-radius: 20px;">
+</p>
+
 ### 🔍 **Descripción**
 El **Apple Watch**, lanzado en 2015, es un dispositivo que fusiona tecnologías de salud, comunicación y moda. Su función principal no es simplemente mostrar la hora, sino integrar datos biométricos, funciones de comunicación y aplicaciones digitales en una plataforma unificada. Representa una hibridación funcional al mezclar hardware avanzado, software especializado y elementos de moda.
 
@@ -30,6 +34,10 @@ Desde un punto de vista estético, el dispositivo también encarna la hibridaci�
 ---
 
 ## 💬 Caso 2: Reddit - El Foro Global Híbrido
+
+<p align="center">
+  <img src="imagenes/reddit.jpg" alt="Apple Watch Representación" width="500" style="border-radius: 20px;">
+</p>
 
 ### 🔍 **Descripción**
 **Reddit**, fundado en 2005, es un ejemplo notable de hibridación tecnológica y cultural. Combina características de foros de discusión tradicionales con elementos de redes sociales y agregadores de noticias. Los usuarios publican y votan contenido en comunidades específicas llamadas *subreddits*, que abarcan temas desde tecnología y arte hasta cultura popular y política.
