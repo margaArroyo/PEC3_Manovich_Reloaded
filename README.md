@@ -8,7 +8,7 @@ La **hibridación** es un fenómeno central en la era digital descrito por **Lev
 ## ⌚ Caso 1: Apple Watch - La Hibridación de la Salud, Comunicación y Estilo
 
 <p align="center">
-  <img src="imagenes/applewatch.png" alt="Apple Watch Representación" width="500" style="border-radius: 20px;">
+  <img src="Imagenes/applewatch.png" alt="Apple Watch Representación" width="500" style="border-radius: 20px;">
 </p>
 
 ### 🔍 **Descripción**
@@ -36,7 +36,7 @@ Desde un punto de vista estético, el dispositivo también encarna la hibridaci�
 ## 💬 Caso 2: Reddit - El Foro Global Híbrido
 
 <p align="center">
-  <img src="imagenes/reddit.jpg" alt="Imagen Reddit" width="500" style="border-radius: 20px;">
+  <img src="Imagenes/reddit.jpg" alt="Imagen Reddit" width="500" style="border-radius: 20px;">
 </p>
 
 ### 🔍 **Descripción**
